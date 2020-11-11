@@ -1,6 +1,8 @@
 
 function main() {
 
+  document.getElementById('#text_abt').innerHTML='<p type="type/md" data="/post/about.md"> </p>'
+
 (function () {
    'use strict';
    
